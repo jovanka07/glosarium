@@ -10,7 +10,7 @@
 	<?php include 'header.php'; ?>
 	<?php include 'about.php'; ?>
 	<?php include 'video.php'; ?>
-	<?php include 'phone.php'; ?>
+	<?php include 'book.php'; ?>
 	<?php include 'footer.php'; ?>
 </body>
 </html>

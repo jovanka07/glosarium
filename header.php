@@ -77,15 +77,15 @@
 <body>
 	<header>
 		<div class="header-kiri">
-			<p href="" class="logo"><i class="fa-sharp fa-solid fa-satellite" style="color:#4649FF"></i> J O P P T O N</p>
-			<a href="" class="a">Product</a>
-			<a href="" class="a">Use case <i class="fa-sharp fa-solid fa-caret-down"></i></a>
+			<p href="" class="logo"><i class="fa-sharp fa-solid fa-satellite" style="color:#4649FF"></i> R P L A W A C K </p>
+			<a href="" class="a">test</a>
+			<a href="" class="a">test 2 <i class="fa-sharp fa-solid fa-caret-down"></i></a>
 		</div>
 
 		<div class="header-kanan">
-			<a href="" class="a">Pricing</a>
-			<a href="" class="a">Resource <i class="fa-sharp fa-solid fa-caret-down"></i></a>
-			<a href="" class="header-started">Get Started</a>
+			<a href="" class="a">test 3</a>
+			<a href="" class="a">test 4 <i class="fa-sharp fa-solid fa-caret-down"></i></a>
+			<a href="" class="header-started">test 5</a>
 		</div>
 		
 	</header>

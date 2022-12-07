@@ -83,11 +83,11 @@
 <body>
 	<main class="container-video">
 		<figure class="video-img">
-			<img src="img/video.jpg">
+			<img src="img/dua.jpg">
 		</figure>
 
 		<section class="video-content">
-			<h3>Atrract new clients <br> thought engaging <br> video!</h3>
+			<h3>Project PKN <br> RPL Squad <br> 2022!</h3>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqu </p>
 
@@ -98,8 +98,8 @@
 				<div class="owner">
 					<img src="img/foto.png">
 					<div class="nickname">
-						<h5>Jovanka Alexandro</h5>
-						<p>President of sales</p>
+						<h5>Rpl Lawack</h5>
+						<p>Pkn Multitalent</p>
 					</div>
 				</div>
 			</article>

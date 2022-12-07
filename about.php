@@ -111,28 +111,28 @@
 <body>
 	<main class="container-about">
 		<article class="about-1">
-			<h3>"Eve<span>ry<span class="about-span">thing you ne</span>ed</span> to grow <br>your business"</h3>
-			<p>Joppton does everything you need to start and grow your business. Atrract clients thought <br>engaging video content and simplify your business operationg</p>
+			<h3>"Rpl<span>awak pro<span class="about-span">ject glola</span>si</span> 2022 <br>Best Class"</h3>
+			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi a sunt animi.<br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quos!</p>
 		</article>
 		
 		<article class="about-buttom">
-			<a href="">Get Started With Joppdev Today</a>
+			<a href="">Project PKN 2022</a>
 		</article>
 			
 		<article class="about-menu">
-			<a href=""><i class="fa-sharp fa-solid fa-credit-card" style="margin-right: 10px;"></i>No creadit card needid</a>
-			<a href=""><i class="fa-sharp fa-solid fa-rocket" style="margin-right: 10px;"></i>free 3-mont trial</a>
+			<a href=""><i class="fa-sharp fa-solid fa-credit-card" style="margin-right: 10px;"></i>Sudah bayar spp</a>
+			<a href=""><i class="fa-sharp fa-solid fa-rocket" style="margin-right: 10px;"></i>Trial bayar spp</a>
 		</article>
 
 		<figure class="about-people">
-			<img src="img/people.png">
+			<img src="img/satu.jpg">
 		</figure>
 		<figcaption class="about-video">
-			<div class="video">
+			<!-- <div class="video">
 				<i class="fa-sharp fa-solid fa-play"></i>
-			</div>
+			</div> -->
 
-			<p>See Joppton in Action</p>
+			<!-- <p>...</p> -->
 		</figcaption>
 	</main>
 </body>

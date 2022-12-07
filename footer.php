@@ -63,15 +63,15 @@
 <body>
 	<footer>
 		<section class="footer-kiri">
-			<p class="foo"><i class="fa-sharp fa-solid fa-satellite" style="color:#fff"></i> J O P P T O N</p>
-			<p >Joppton does everything you need to start and grow your business.</p>
+			<p class="foo"><i class="fa-sharp fa-solid fa-satellite" style="color:#fff"></i> R P L A W A C K</p>
+			<p >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, atque.</p>
 		</section>
 
 		<section class="footer-kanan">
 			<article class="satu-footer">
-				<h5>Features</h5>
-				<p>Video Creation</p>
-				<p>Scheldulling</p>
+				<h5>project</h5>
+				<p>Book simulation</p>
+				<p>pkn squad</p>
 			</article>
 
 			<article class="satu-footer">
