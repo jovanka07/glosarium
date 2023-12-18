@@ -6,7 +6,7 @@
 	<title></title>
 	<style>
 		.container-book{
-			width: 80%;
+			width: 60%;
 			margin: 30px auto;
 			border: 1px solid black;
 		}
@@ -14,12 +14,21 @@
 			width:100%;
 			border: 1px solid black;
 		}
+
+		@media(max-width: 800px){
+			.container-book{
+				width:80%;
+			}
+			.container-book iframe{
+				height:550px;
+			}
+		}
 		
 	</style>
 </head>
 <body>
 	<main class="container-book">
-		<iframe src="https://www.flipbookpdf.net/web/site/e668edbccb30c211bc399869b56f0e009a7effa5202212.pdf.html" width="3000" height="637" frameborder="0" webkitAllowFullScreen mozallowfullscreen ></iframe>
+		<iframe src="https://drive.google.com/file/d/1AE6BjJ33NJ7XdR0cp_nbVo-z48wgx2Jj/preview" width="640" height="1180" allow="autoplay"></iframe>
 	</main>
 </body>
 </html>

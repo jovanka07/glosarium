@@ -6,16 +6,16 @@
 	<title></title>
 	<style>
 		.container-video{
-			width: 80%;
+			width: 90%;
 			margin: 150px auto;
 			/*border: 1px solid black;*/
 			display: flex;
 			justify-content: space-between;
 		}
 		.video-img{
-			width: 50%;
+			width: 55%;
 			height: 580px;
-			background-color: #FDF3DD;
+			background-color: yellow;
 			display: flex;
 			border-top-left-radius: 60px;
 			border-bottom-right-radius: 60px;
@@ -24,8 +24,8 @@
 		}
 		.video-img img{
 			border-radius: 30px;
-			width: 80%;
-			height: 80%;
+			width: 95%;
+			height: 97%;
 			margin: auto;
 		}
 		.video-content{
@@ -77,29 +77,32 @@
 			.container-video{
 				margin: 30px auto;
 			}
+
+			.owner img{
+				width:50px;
+				height:50px
+			}
 		}
 	</style>
 </head>
 <body>
 	<main class="container-video">
 		<figure class="video-img">
-			<img src="img/dua.jpg">
+			<img src="img/ibu.png">
 		</figure>
 
 		<section class="video-content">
 			<h3>Project PKN <br> RPL Squad <br> 2022!</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqu </p>
+			<p>Pembuatan e-Book Glosarium ini ialah salah satu bentuk tugas projek dari mata kuliah Pendidikan Kewarganegaraan (PKn) yang diampu oleh dosen Yayang Furi Furnamasari, M.Pd. Kami selaku mahasiswa jurusan Rekayasa Perangkat Lunak (RPL) UPI Kampus Cibiru Semester 1 berinisiatif untuk membuat website yang dimana pengguna dapat mengkases e-Book Glosarium dengan mudah dan praktis.  </p>
 
 			<article class="video-owner">
-				<p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore e
+				<p>"Gantung kan cita-citamu setinggi langit! bermimpilah setinggi langit. Jika engkau jatuh, engkau akan jatuh di antara bintang-bintang
 				"</p>
 				<div class="owner">
-					<img src="img/foto.png">
+					<img src="img/1.png">
 					<div class="nickname">
-						<h5>Rpl Lawack</h5>
-						<p>Pkn Multitalent</p>
+						<h5>Yayang Furi Furnamasari M.Pd</h5>
+						<p>Dosen Pendidikan Kewarganegaraan</p>
 					</div>
 				</div>
 			</article>

@@ -77,15 +77,7 @@
 <body>
 	<header>
 		<div class="header-kiri">
-			<p href="" class="logo"><i class="fa-sharp fa-solid fa-satellite" style="color:#4649FF"></i> R P L A W A C K </p>
-			<a href="" class="a">test</a>
-			<a href="" class="a">test 2 <i class="fa-sharp fa-solid fa-caret-down"></i></a>
-		</div>
-
-		<div class="header-kanan">
-			<a href="" class="a">test 3</a>
-			<a href="" class="a">test 4 <i class="fa-sharp fa-solid fa-caret-down"></i></a>
-			<a href="" class="header-started">test 5</a>
+			<p href="" class="logo"><i class="fa-sharp fa-solid fa-satellite" style="color:#4649FF"></i> R P L A W A K </p>
 		</div>
 		
 	</header>

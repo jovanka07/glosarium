@@ -64,7 +64,7 @@
 	<footer>
 		<section class="footer-kiri">
 			<p class="foo"><i class="fa-sharp fa-solid fa-satellite" style="color:#fff"></i> R P L A W A C K</p>
-			<p >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, atque.</p>
+			<p >To be good citizenship.</p>
 		</section>
 
 		<section class="footer-kanan">

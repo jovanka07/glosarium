@@ -10,6 +10,7 @@
 			/*border: 1px solid black;*/
 			margin: 30px auto;
 			text-align: center;
+			/*background: url('img/bg.png');*/
 		}
 		.container-about .about-1 h3{
 			font-size: 48px;
@@ -54,8 +55,8 @@
 			color: #333
 		}
 		.about-people{
-			width: 60%;
-			height: 500px;
+			width: 80%;
+			height: 600px;
 			margin: 30px auto;
 		}
 		.about-people img{
@@ -98,6 +99,7 @@
 		@media(max-width: 800px){
 			.about-people{
 				width: 100%;
+				height: 300px;
 			}
 			.video{
 				width: 25%;
@@ -111,21 +113,21 @@
 <body>
 	<main class="container-about">
 		<article class="about-1">
-			<h3>"Rpl<span>awak pro<span class="about-span">ject glola</span>si</span> 2022 <br>Best Class"</h3>
-			<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi a sunt animi.<br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quos!</p>
+			<h3>"Rpl<span>awak pro<span class="about-span">ject glola</span>sarium</span> 2022 <br>Best Class"</h3>
+			<p>RPL (Rekayasa Perangkat Lunak) kelas 1A adalah sekumpulan mahasiswa berjumlah 42 orang yang tergabung <br> dalam satu  jurusan yang mempelajari tentang proses pengembangan perangkat lunak <br> yang efektif br dan efisien. Dengan latar belakang <br> pendidikan yang bermacam-macam, <br> kami tetap satu di dalam kelas. 
+			</p>
 		</article>
 		
 		<article class="about-buttom">
-			<a href="">Project PKN 2022</a>
+			<a href="https://drive.google.com/file/d/1AE6BjJ33NJ7XdR0cp_nbVo-z48wgx2Jj/view" target="_blank">Download PDF</a>
 		</article>
 			
 		<article class="about-menu">
-			<a href=""><i class="fa-sharp fa-solid fa-credit-card" style="margin-right: 10px;"></i>Sudah bayar spp</a>
-			<a href=""><i class="fa-sharp fa-solid fa-rocket" style="margin-right: 10px;"></i>Trial bayar spp</a>
+			<a href=""><i class="fa-sharp fa-solid fa-rocket" style="margin-right: 5px;"></i>To be good citizenship</a>
 		</article>
 
 		<figure class="about-people">
-			<img src="img/satu.jpg">
+			<img src="img/formal.png">
 		</figure>
 		<figcaption class="about-video">
 			<!-- <div class="video">
